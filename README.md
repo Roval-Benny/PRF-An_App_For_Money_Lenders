@@ -25,9 +25,4 @@ Youtube Video : [https://youtu.be/vjw4SOtIWyQ](https://youtu.be/vjw4SOtIWyQ)
 ### Screenshots
 
 
-
-![prf recents](https://user-images.githubusercontent.com/48195902/70772884-e48fff00-1d9b-11ea-9047-7c32cd1cfc52.jpg)
-![prf personal details](https://user-images.githubusercontent.com/48195902/70772900-e954b300-1d9b-11ea-917c-59e32e0f53fe.jpg)
-![prf home](https://user-images.githubusercontent.com/48195902/70772914-ec4fa380-1d9b-11ea-81d0-7eaf58ce3e4d.jpg)
-![prf drawer](https://user-images.githubusercontent.com/48195902/70772924-f1acee00-1d9b-11ea-9585-4074aa95f56a.jpg)
-![prf note](https://user-images.githubusercontent.com/48195902/70772929-f5407500-1d9b-11ea-8dd7-faf489e5be25.jpg)
+![prf collage](https://user-images.githubusercontent.com/48195902/70773555-c75c3000-1d9d-11ea-8e25-96853799bdd9.png)
