@@ -15,7 +15,7 @@ PRF is app for money lenders to make their business more efficient and stronger
 *    Renew, delete, search features are available.
 
 
-Youtube Video : [https://youtu.be/jxOeQ2Y4_Yg](https://youtu.be/jxOeQ2Y4_Yg)
+Youtube Video : [https://youtu.be/vjw4SOtIWyQ](https://youtu.be/vjw4SOtIWyQ)
 
 ### Instructions
 
@@ -25,8 +25,9 @@ Youtube Video : [https://youtu.be/jxOeQ2Y4_Yg](https://youtu.be/jxOeQ2Y4_Yg)
 ### Screenshots
 
 
-![graphics-1](https://user-images.githubusercontent.com/45265641/49265724-53443800-f479-11e8-92f7-b69d53f0c3b9.jpg)
-![graphics-2](https://user-images.githubusercontent.com/45265641/49265732-5dfecd00-f479-11e8-897b-5b81f8cd2a0e.jpg)
-![graphics-3](https://user-images.githubusercontent.com/45265641/49265739-622aea80-f479-11e8-91cf-01787055021a.jpg)
-![graphics-4](https://user-images.githubusercontent.com/45265641/49265743-66ef9e80-f479-11e8-8569-61c5fda4bf0f.jpg)
 
+![prf recents](https://user-images.githubusercontent.com/48195902/70772884-e48fff00-1d9b-11ea-9047-7c32cd1cfc52.jpg)
+![prf personal details](https://user-images.githubusercontent.com/48195902/70772900-e954b300-1d9b-11ea-917c-59e32e0f53fe.jpg)
+![prf home](https://user-images.githubusercontent.com/48195902/70772914-ec4fa380-1d9b-11ea-81d0-7eaf58ce3e4d.jpg)
+![prf drawer](https://user-images.githubusercontent.com/48195902/70772924-f1acee00-1d9b-11ea-9585-4074aa95f56a.jpg)
+![prf note](https://user-images.githubusercontent.com/48195902/70772929-f5407500-1d9b-11ea-8dd7-faf489e5be25.jpg)
