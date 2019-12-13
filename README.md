@@ -1,5 +1,5 @@
 # PRF - An App For Money Lenders 
-![poster 2](https://user-images.githubusercontent.com/45265641/49264335-d82c5300-f473-11e8-877a-24041f2e5192.png)
+![A New Design - Made with PosterMyWall (1)](https://user-images.githubusercontent.com/48195902/70774138-5fa6e480-1d9f-11ea-8710-aae7b86d37b4.jpg)
  
 PRF is app for money lenders to make their business more efficient and stronger 
 
